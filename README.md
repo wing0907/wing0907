@@ -39,3 +39,6 @@ AI/ML 엔지니어 · Legal-Tech 빌더
 ## 연락처
 - Email: wjj9319@gmail.com
 - Blog: https://wing0907.github.io
+
+
+![LawAI Screenshot](assets/lawai_demo1.png)
