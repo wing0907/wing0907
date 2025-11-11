@@ -19,7 +19,7 @@
 ## 주요 프로젝트
 - **LawAI**  
   법률 질의 특화 RAG 에이전트. 증거 우선 답변과 세션 메모리로 신뢰도 높은 응답을 제공합니다.  
-  `FastAPI · LangChain · bge-m3 · Chroma/FAISS · PostgreSQL` | [Repository](https://github.com/wing0907/Law-AI-Final)
+  `FastAPI · LangChain · bge-m3 · Chroma/FAISS · PostgreSQL` | [Repository](https://github.com/wing0907/LawAI-Final)
 - **AI-Study**  
   DL/NLP/시계열 실험 템플릿을 모은 레포지토리. 실험 셋업과 반복 실험을 자동화합니다.  
   `PyTorch · TensorFlow` | [Repository](https://github.com/wing0907/AI-Study)
